@@ -1,2 +1,2 @@
-# ibmI-Dates
+# ibm-i Dates
  Dates handling in RPGLE
